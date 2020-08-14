@@ -13,7 +13,7 @@ Registration for workshops starts 2020-09-01. Workshops take place 2020-09-25. T
 | [Basics of Shiny](https://github.com/WhyR2020/workshops/tree/master/bshiny) | Weronika Puchała |  TBA | (M) | 
 | [Reproducible data screening and quality control with dataMaid](https://github.com/WhyR2020/workshops/tree/master/datamaid) | [Anne Helby Petersen](https://biostat.ku.dk/staff_/?pure=en/persons/395810), Claus Ekstrøm | TBA | (M) |
 | [How to make your code fast - R and C++ integration using Rcpp](https://github.com/WhyR2020/workshops/tree/master/rcpp) | Jadwiga Słowik, Dominik Rafacz, Mateusz Bąkała | TBA | (M) |
-|-------------------|-----------------|-------|--|
+| | | | |
 | **Invited** [Advanced Shiny](https://github.com/WhyR2020/workshops/tree/master/ashiny) | [Colin Fay](https://colinfay.me/bio) |  TBA | (A) |
 | [Causal machine learning in practice](https://github.com/WhyR2020/workshops/tree/master/casual) |  Mateusz Zawisza [McKinsey & Company](https://www.mckinsey.com/pl/careers/careers-in-poland) | 40 | (A) |
 | [Creating R Subroutines with Fortran and OpenMP Tools](https://github.com/WhyR2020/workshops/tree/master/openmp) | [Erin Hodgess](https://www.researchgate.net/profile/Erin_Hodgess) | TBA | (A) |

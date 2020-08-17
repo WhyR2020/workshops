@@ -1,9 +1,0 @@
-# Reproducible data screening and quality control with dataMaid
-
-Authors: [Anne Helby Petersen](https://biostat.ku.dk/staff_/?pure=en/persons/395810), Claus Ekstrøm
-
-### Description
-
-Data screening is the first step in any data analysis, as the validity of the conclusions from the analysis hinges on the quality of the input data. Mistakes in the data can arise for any number of reasons, including erroneous codings and malfunctioning measurement equipment. However, data screening is in itself often a messy endeavor with little structure, direction or documentation. We present a systematic, analytical approach to data screening that will ensure the data screening process to be just as structured and well-documented as the rest of the data analysis. The primary software tool is the dataMaid R package, which implements an extensive and customizable suite of quality assessment tools that can be applied to a dataset in order to identify potential problems in its variables. The results can be presented in an auto-generated, non-technical overview report intended to be perused by an investigator with an understanding of the variables in the data, but not necessarily knowledge of R. Thereby, dataMaid aids the dialogue between data analysts and field experts, while also providing easy documentation of reproducible data cleaning steps and data quality control. The workshop will consist of an interchange between plenary discussions and interactive sessions, where the participants work with messy data in R, mostly using the dataMaid R-package. 
-
-The target audience encompasses data analysists broadly defined. Some experience with analyzing data in R is required, but no advanced skills are necessary.  However, we do provide optional practical exercises specifically targeted at advanced R users, so they can also benefit from the workshop. 

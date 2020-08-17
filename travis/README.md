@@ -1,6 +1,20 @@
-# First steps in Continuous Integration
+# First steps with Continuous Integration
 
 Authors: Colin Gillespie & Rhian Davies [Jumping Rivers](https://www.jumpingrivers.com)
+
+## Goals 
+
+This goals is aimed at participants who want to start using continuous integration
+in their git workflow. By the end of the tutorial participants should:
+ 
+ - Appreciate that a commit to Git can launch numerous other services
+ - Be able to use travis to automatically check code and run unit tests
+ - Create and securely store personal authentication tokens
+ - Create a package website using __pkgdown__
+ - Test their R package against multiple versions of R
+ - Create and manipulate a travis configuration file
+
+Target audience: The course is suitable for R users of all levels, but, participants should be familiar with basic git commands.
 
 ## Assumed Knowledge
 

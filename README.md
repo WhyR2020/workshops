@@ -9,7 +9,7 @@ Registration for workshops starts 2020-09-01. Workshops take place 2020-09-25. T
 
 | Title             |  Tutors         | Seats |  |
 |-------------------|-----------------|-------|--|
-| **Invited** [TBA](https://github.com/WhyR2020/workshops/tree/master/travis) |  Colin Gillespie [Jumping Rivers](https://www.jumpingrivers.com/about/) | 25 | (M) |
+| **Invited** [First steps with Continuous Integration](https://github.com/WhyR2020/workshops/tree/master/travis) | [Colin Gillespie](https://twitter.com/csgillespie) & [Rhian Davis](https://twitter.com/trianglegirl) from [Jumping Rivers](https://www.jumpingrivers.com/about/) | 25 | (M) |
 | [Basics of Shiny](https://github.com/WhyR2020/workshops/tree/master/bshiny) | Weronika Puchała |  TBA | (M) | 
 | [How to make your code fast - R and C++ integration using Rcpp](https://github.com/WhyR2020/workshops/tree/master/rcpp) | Jadwiga Słowik, Dominik Rafacz, Mateusz Bąkała | TBA | (M) |
 | TBA | TBA | TBA | (M) |

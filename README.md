@@ -26,6 +26,6 @@ During the break [McKinsey & Company](https://www.mckinsey.com/pl/careers/career
 | [Creating R Subroutines with Fortran and OpenMP Tools](https://github.com/WhyR2020/workshops/tree/master/openmp) | [Erin Hodgess](https://www.researchgate.net/profile/Erin_Hodgess) | 30 | (A) |
 | [Satellite imagery analysis in R](https://github.com/WhyR2020/workshops/tree/master/satellite) | [Ewa Grabska](https://denali.geo.uj.edu.pl/project/rs4for/index.php/pl/ewa-grabska-2/) | 40 | (A) |
 
-<img src="https://raw.githubusercontent.com/WhyR2020/workshops/master/agenda%20workshops.jpg">
+<img src="https://raw.githubusercontent.com/WhyR2020/workshops/master/workshops.jpg">
 
 <img src="http://whyr.pl/foundation/images/fulls/whyr2020/updated_cover2020_small.jpg">

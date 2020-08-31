@@ -16,7 +16,7 @@ Registration for workshops starts 2020-09-01. Workshops take place 2020-09-25. T
 | [Reproductible data analysis with `drake`](https://github.com/WhyR2020/workshops/tree/master/drake) | Jakub Kwiecień | 30 | (M) |
 | | | | |
 | **Invited** [Advanced Shiny](https://github.com/WhyR2020/workshops/tree/master/ashiny) | [Colin Fay](https://colinfay.me/) |  30 | (A) |
-| [Causal machine learning in practice](https://github.com/WhyR2020/workshops/tree/master/casual) |  Mateusz Zawisza [McKinsey & Company](https://www.mckinsey.com/pl/careers/careers-in-poland) | 40 | (A) |
+| **Highlighted** [Causal machine learning in practice](https://github.com/WhyR2020/workshops/tree/master/casual) |  Mateusz Zawisza [McKinsey & Company](https://www.mckinsey.com/pl/careers/careers-in-poland) | 40 | (A) |
 | [Creating R Subroutines with Fortran and OpenMP Tools](https://github.com/WhyR2020/workshops/tree/master/openmp) | [Erin Hodgess](https://www.researchgate.net/profile/Erin_Hodgess) | 30 | (A) |
 | [Satellite imagery analysis in R](https://github.com/WhyR2020/workshops/tree/master/satellite) | [Ewa Grabska](https://denali.geo.uj.edu.pl/project/rs4for/index.php/pl/ewa-grabska-2/) | 40 | (A) |
 

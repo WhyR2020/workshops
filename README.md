@@ -11,13 +11,13 @@ Registration for workshops starts 2020-09-01. Workshops take place 2020-09-25. T
 |-------------------|-----------------|-------|--|
 | **Invited** [First steps with Continuous Integration](https://github.com/WhyR2020/workshops/tree/master/travis) | [Colin Gillespie](https://twitter.com/csgillespie) & [Rhian Davis](https://twitter.com/trianglegirl) from [Jumping Rivers](https://www.jumpingrivers.com/about/) | 25 | (M) |
 | **Invited** mlr3mbo | [Jakob Richter](https://twitter.com/jak0br) | 25 | (M) |
-| [Basics of Shiny](https://github.com/WhyR2020/workshops/tree/master/bshiny) | Weronika Puchała, Krystyna Grzesiak, Katarzyna Sidorczuk |  TBA | (M) | 
+| [Basics of Shiny](https://github.com/WhyR2020/workshops/tree/master/bshiny) | Weronika Puchała, Krystyna Grzesiak, Katarzyna Sidorczuk |  30 | (M) | 
 | [How to make your code fast - R and C++ integration using Rcpp](https://github.com/WhyR2020/workshops/tree/master/rcpp) | Jadwiga Słowik, Dominik Rafacz, Mateusz Bąkała | 30 | (M) |
-| [Reproductible data analysis with `drake`](https://github.com/WhyR2020/workshops/tree/master/drake) | Jakub Kwiecień | TBA | (M) |
+| [Reproductible data analysis with `drake`](https://github.com/WhyR2020/workshops/tree/master/drake) | Jakub Kwiecień | 30 | (M) |
 | | | | |
 | **Invited** [Advanced Shiny](https://github.com/WhyR2020/workshops/tree/master/ashiny) | [Colin Fay](https://colinfay.me/) |  30 | (A) |
 | [Causal machine learning in practice](https://github.com/WhyR2020/workshops/tree/master/casual) |  Mateusz Zawisza [McKinsey & Company](https://www.mckinsey.com/pl/careers/careers-in-poland) | 40 | (A) |
-| [Creating R Subroutines with Fortran and OpenMP Tools](https://github.com/WhyR2020/workshops/tree/master/openmp) | [Erin Hodgess](https://www.researchgate.net/profile/Erin_Hodgess) | TBA | (A) |
+| [Creating R Subroutines with Fortran and OpenMP Tools](https://github.com/WhyR2020/workshops/tree/master/openmp) | [Erin Hodgess](https://www.researchgate.net/profile/Erin_Hodgess) | 30 | (A) |
 | [Satellite imagery analysis in R](https://github.com/WhyR2020/workshops/tree/master/satellite) | [Ewa Grabska](https://denali.geo.uj.edu.pl/project/rs4for/index.php/pl/ewa-grabska-2/) | 40 | (A) |
 
 <img src="http://whyr.pl/foundation/images/fulls/whyr2020/updated_cover2020_small.jpg"

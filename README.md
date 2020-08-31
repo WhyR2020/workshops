@@ -7,7 +7,9 @@ Registration for workshops starts 2020-09-01. Workshops take place 2020-09-25. T
 - 09:00 - 12:30 / CEST / GMT+2 - **Morning (M)**
 - 14:00 - 17:30 / CEST / GMT+2 - **Afternoon (A)**
 
-During the break [McKinsey & Company](https://www.mckinsey.com/pl/careers/careers-in-poland) will host a **Recruiting Panel** - [Lessons learned from 500+ interviews for data science jobs](https://github.com/WhyR2020/abstracts/tree/master/panel) (13:00 - 14:00 / CEST / GMT+2 - **Panel (P)**)/
+During the break [McKinsey & Company](https://www.mckinsey.com/pl/careers/careers-in-poland) will host a **Recruiting Panel** 
+
+- [Lessons learned from 500+ interviews for data science jobs](https://github.com/WhyR2020/abstracts/tree/master/panel) (13:00 - 14:00 / CEST / GMT+2 - **Panel (P)**)
 
 | Title             |  Tutors         | Seats |  |
 |-------------------|-----------------|-------|--|

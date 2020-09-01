@@ -14,7 +14,7 @@ During the break [McKinsey & Company](https://www.mckinsey.com/pl/careers/career
 | Title             |  Tutors         | Seats |  |
 |-------------------|-----------------|-------|--|
 | **Invited** [First steps with Continuous Integration](https://github.com/WhyR2020/workshops/tree/master/travis) | [Colin Gillespie](https://twitter.com/csgillespie) & [Rhian Davis](https://twitter.com/trianglegirl) from [Jumping Rivers](https://www.jumpingrivers.com/about/) | 25 | (M) |
-| **Invited** mlr3mbo | [Jakob Richter](https://twitter.com/jak0br) | 25 | (M) |
+| **Invited** [Bayesian Optimization with mlr3mbo](https://github.com/WhyR2020/workshops/tree/master/bayesopt) | [Jakob Richter](https://twitter.com/jak0br) | 25 | (M) |
 | [Basics of Shiny](https://github.com/WhyR2020/workshops/tree/master/bshiny) | Weronika Puchała, Krystyna Grzesiak, Katarzyna Sidorczuk |  30 | (M) | 
 | [How to make your code fast - R and C++ integration using Rcpp](https://github.com/WhyR2020/workshops/tree/master/rcpp) | Jadwiga Słowik, Dominik Rafacz, Mateusz Bąkała | 30 | (M) |
 | [Reproductible data analysis with `drake`](https://github.com/WhyR2020/workshops/tree/master/drake) | Jakub Kwiecień | 30 | (M) |

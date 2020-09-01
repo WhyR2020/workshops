@@ -14,7 +14,7 @@ During the break [McKinsey & Company](https://www.mckinsey.com/pl/careers/career
 | Title             |  Tutors         | Seats |  |
 |-------------------|-----------------|-------|--|
 | **Invited** [First steps with Continuous Integration](https://github.com/WhyR2020/workshops/tree/master/travis) | [Colin Gillespie](https://twitter.com/csgillespie) & [Rhian Davis](https://twitter.com/trianglegirl) from [Jumping Rivers](https://www.jumpingrivers.com/about/) | 25 | (M) |
-| **Invited** mlr3mbo | [Jakob Richter](https://twitter.com/jak0br) | 25 | (M) |
+| **Invited** [Bayesian Optimization with mlr3mbo](https://github.com/WhyR2020/workshops/tree/master/bayesopt) | [Jakob Richter](https://twitter.com/jak0br) | 25 | (M) |
 | [Basics of Shiny](https://github.com/WhyR2020/workshops/tree/master/bshiny) | Weronika Puchała, Krystyna Grzesiak, Katarzyna Sidorczuk |  30 | (M) | 
 | [How to make your code fast - R and C++ integration using Rcpp](https://github.com/WhyR2020/workshops/tree/master/rcpp) | Jadwiga Słowik, Dominik Rafacz, Mateusz Bąkała | 30 | (M) |
 | [Reproductible data analysis with `drake`](https://github.com/WhyR2020/workshops/tree/master/drake) | Jakub Kwiecień | 30 | (M) |
@@ -25,7 +25,6 @@ During the break [McKinsey & Company](https://www.mckinsey.com/pl/careers/career
 | **Highlighted** [Causal machine learning in practice](https://github.com/WhyR2020/workshops/tree/master/casual) |  Mateusz Zawisza [McKinsey & Company](https://www.mckinsey.com/pl/careers/careers-in-poland) | 40 | (A) |
 | [Creating R Subroutines with Fortran and OpenMP Tools](https://github.com/WhyR2020/workshops/tree/master/openmp) | [Erin Hodgess](https://www.researchgate.net/profile/Erin_Hodgess) | 30 | (A) |
 | [Satellite imagery analysis in R](https://github.com/WhyR2020/workshops/tree/master/satellite) | [Ewa Grabska](https://denali.geo.uj.edu.pl/project/rs4for/index.php/pl/ewa-grabska-2/) | 40 | (A) |
-| [Bayesian Optimization for Hyperparameter Tuning in Machine Learning](https://github.com/WhyR2020/workshops/tree/master/bayesopt) | [Jakob Richter](https://github.com/jakob-r/) | 40 | (M) |
 
 <img src="https://raw.githubusercontent.com/WhyR2020/workshops/master/workshops.jpg">
 

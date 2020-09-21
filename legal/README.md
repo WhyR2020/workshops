@@ -1,6 +1,10 @@
 # Legal basics for data scientists   
 
 Authors: Urszula Ilnicka - Karaban (r.pr. / attorney) ; Grzegorz Leśniewski (adw. / attorney) 
+### Schedule
+
+15.30 - 17.00 / CEST / GMT+2 
+
 ### Description
 
 There is a number of potential ways to conduct business activities in Poland.  During these workshops it will be explained: 

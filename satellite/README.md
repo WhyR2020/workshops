@@ -24,6 +24,8 @@ Satellite imagery, such as freely available data from Sentinel-2 mission, enable
 
 * `rlang`
 
+* `caret`
+
 * `ggplot2`
 
 * `RColorBrewer`

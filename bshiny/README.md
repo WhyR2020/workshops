@@ -1,6 +1,6 @@
 # Basics of Shiny
 
-Authors: Weronika Puchała, Katarzyna Sidorczuk, Krystyna Grzesiak
+Authors: Weronika Puchała, Krystyna Grzesiak, Katarzyna Sidorczuk
 
 ## About the workshop
 

@@ -1,4 +1,4 @@
-# Reproductible data analysis with `drake`
+# Reproducible data analysis with `drake`
 
 Authors: Jakub Kwiecień
 

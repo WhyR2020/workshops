@@ -21,6 +21,8 @@ During the break [McKinsey & Company](https://www.mckinsey.com/pl/careers/career
 | | | | |
 | Recruiting Panel [Lessons learned from 500+ interviews for data science jobs](https://github.com/WhyR2020/abstracts/tree/master/panel) | [McKinsey & Company](https://www.mckinsey.com/pl/careers/careers-in-poland) | 1000 | (P) |
 | | | | |
+| **Invited** [Innovation Box (IP Box) in Poland](https://github.com/WhyR2020/workshops/tree/master/ipbox) | Natalia Wojciechowska-Chałupińska & Grzegorz Leśniewski from [Leśniewski Borkiewicz & Partners](https://lbplegal.com/) |  50 | (A - early) |
+| **Invited** [Legal basics for data scientists](https://github.com/WhyR2020/workshops/tree/master/legal) | Urszula Ilnicka-Karaban & Grzegorz Leśniewski from [Leśniewski Borkiewicz & Partners](https://lbplegal.com/) |  50 | (A - late) |
 | **Invited** [Advanced Shiny](https://github.com/WhyR2020/workshops/tree/master/ashiny) | [Colin Fay](https://colinfay.me/) from [ThinkR](https://thinkr.fr/) |  30 | (A) |
 | **Highlighted** [Causal machine learning in practice](https://github.com/WhyR2020/workshops/tree/master/casual) |  Mateusz Zawisza [McKinsey & Company](https://www.mckinsey.com/pl/careers/careers-in-poland) | 40 | (A) |
 | [Creating R Subroutines with Fortran and OpenMP Tools](https://github.com/WhyR2020/workshops/tree/master/openmp) | [Erin Hodgess](https://www.researchgate.net/profile/Erin_Hodgess) | 30 | (A) |

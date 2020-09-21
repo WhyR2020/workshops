@@ -1,0 +1,13 @@
+Sources of the files:
+
+map of New Zealand:
+https://www.nationsonline.org/oneworld/map/new-zealand-map.htm
+
+flag of New Zealand:
+https://www.nationsonline.org/oneworld/new_zealand.htm
+
+info.txt:
+https://en.wikipedia.org/wiki/New_Zealand
+
+data:
+https://www.stats.govt.nz/large-datasets/csv-files-for-download/

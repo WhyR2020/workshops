@@ -8,29 +8,35 @@ Satellite imagery, such as freely available data from Sentinel-2 mission, enable
 
 ### Before the workshop
 
-#### Recquired packages: 
+* #### Please create an account on the ESA sci-hub website: https://scihub.copernicus.eu/dhus/#/home
 
-* `sen2r`
+* #### Recquired packages: 
 
-* `getSpatialData` (hosted on github so you also need `devtools` package, after that use: `devtools::install_github("16EAGLE/getSpatialData"`)
+    * `sen2r`
 
-* `raster`
+    * `getSpatialData` (hosted on github so you also need `devtools` package, after that use: `devtools::install_github("16EAGLE/getSpatialData"`)
 
-* `RStoolbox` 
+    * `raster`
 
-* `dplyr`
+    * `RStoolbox` 
 
-* `tidyr`
+    * `dplyr`
 
-* `rlang`
+    * `tidyr`
 
-* `ggplot2`
+    * `rlang`
 
-* `RColorBrewer`
+    * `caret`
 
-* `viridis`
+    * `ggplot2`
+
+    * `RColorBrewer`
+
+    * `viridis`
 
 
-#### Download materials:
+* #### Download materials:
 
-_coming soon_
+    * https://www.dropbox.com/s/pss5sto3wb3z4ny/whyr_satellite.zip?dl=0
+
+

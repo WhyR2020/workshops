@@ -8,6 +8,8 @@ ui <- fluidPage(
                                   label = "Choices:",
                                   choices = c("Births", "Deaths", "Natural_Increase"),
                                   selected = c("Births", "Deaths", "Natural_Increase")),
+               actionButton(inputId = "apply_changes",
+                            label = "Filter!"),
                sliderInput(inputId = "x_axis_range",
                            label = "Adjust time range",
                            min = 2000, max = 2019,
@@ -29,7 +31,7 @@ server <- function(input, output, session){
     
   })
   
-  dat_tmp <- reactive({
+  dat_tmp <- eventReactive(input[["apply_changes"]], {
     
     validate(need(input[["type_choices"]], "Please select something on the left!"))
     

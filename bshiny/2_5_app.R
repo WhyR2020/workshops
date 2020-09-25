@@ -1,7 +1,8 @@
 library(shiny)
 library(ggplot2)
+library(shinythemes)
 
-ui <- fluidPage(
+ui <- fluidPage(theme = shinytheme("darkly"),
   br(),
   sidebarPanel("Let's see the plot!",
                checkboxGroupInput(inputId = "type_choices",

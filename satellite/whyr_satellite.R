@@ -233,7 +233,7 @@ ggplot(mean_spectra, aes(key, value, color = class, group = class))+
 #Image classification - there are 2 types of classification – unsupervised and supervised. 
 #in unsupervised classification we don’t use reference data (training data), all pixels are grouped into clusters using for example k-means algorithm. 
 #in supervised classification we use reference, training samples. For these training samples the land cover class and exact location is known. 
-
+#we will use classification tools form RStoolbox package
 
 #unsupervised classification
 class1 = unsuperClass(warsaw, nSamples = 100, nclasses = 5)
@@ -290,7 +290,8 @@ results = rfe(ref_values[,1:10], ref_values[,11], sizes=c(1:10), rfeControl=cont
 
 #print/plot results 
 results
-plot(results, type = "l") #line plot. as you can see, we not necessary need all of the bands to achieve high accuracy; as seen in scatterplots, the correlation between some of the bands is very high and therefore they are redundant 
+plot(results, type = "l") #line plot. as you can see, we not necessary need all of the bands to achieve high accuracy; as seen in scatterplots, 
+#the correlation between some of the bands is very high and therefore they are redundant 
 predictors(results) #the most important predictors
 
 
@@ -314,34 +315,48 @@ class_PCA
 # visualisation of classified map
 plot(classification_rf$map, col=c("darkgreen", "brown3","chartreuse4", "chartreuse", "yellow", "cadetblue3"))
 
-#PART 5: MULTI-TEMPORAL ANALYSIS - In the last part of this workshop we will analyze multi-temporal imagery – i.e. dense time series of images from the same year. Dense time series are frequently used particularly in vegetation monitoring, for example in mapping small forest disturbances, or in crop monitoring. In these part we will also analyze the vegetation, how the different species/types of vegetation change their reflectance during the growing season. Again, there are some already prepared reference data and cropped images from Senitnel-2. Because we will use a series of 17 images, to automatize reading we will use lapply function. Probably most of you know this apply family of functions which are very helpful when analyzing lists of, for example rasters, they work like a loop through all elements of a list.  
+#PART 5: MULTI-TEMPORAL ANALYSIS----------------------------------------------------------------------------
+#In the last part we will analyze multi-temporal imagery – i.e. dense time series of images from the same year. 
+#Dense time series are used particularly in vegetation monitoring, for example in mapping small forest disturbances, or in crop monitoring. 
+#In these part we will also analyze the vegetation - how the different species/types of vegetation reflectance changes during the growing season. 
+#Again, there are some already prepared reference data and 17 cropped images from Senitnel-2. 
+
+
 setwd("C:/04_R/multi_temporal")
-stacklist = lapply(list.files(pattern = "*.tif$"), stack)
+stacklist = lapply(list.files(pattern = "*.tif$"), stack) #use lapply() function to read all of the images at once - i.e. all of the images with given pattern (.tif format)
+#the result is a list of 17 stacks 
 
 ref = shapefile("ref_crops.shp")
 
-start_time = Sys.time()
-ref_values = lapply(stacklist, raster::extract, ref, fun = "mean") %>% as.data.frame() #6 minutes
-end_time = Sys.time()
-end_time - start_time
-
+#extract data again; use lapply
+ref_values = lapply(stacklist, raster::extract, ref, fun = "mean") %>% as.data.frame() #it takes some time... 
 ref_values$class = ref$class
 
-colnames(ref_values) = sub("X", "", colnames(ref_values))
+colnames(ref_values) = sub("X", "", colnames(ref_values)) #removing unnecessary strings 
+band = select(ref_values, ends_with(".7")) #select the band (e.g. 7 - NIR1)
+band$class = ref$class #and add the class column again
 
-band = select(ref_values, ends_with(".8"))
-band$class = band$class
-
-means = blue %>% 
+means = band %>% #similarly as in previous part, we will calculate mean values for each class
   gather(key, value, -class) %>%
   as.data.frame
 
-means$key = as.Date(means$key, format = "%Y%m%d")
+means$key = as.Date(means$key, format = "%Y%m%d") #change the key, i.e. a variable with date to date format
 
-
+#and plot it:
 ggplot(means, aes(key, value, color = class, group = class))+
   geom_point()+
   geom_line(size = 2, alpha = 0.6)
 
+#Some simple conlcusion form the NIR time series analysis are:
+#In NIR region, healthy vegetation has a very high values (it is sensitive to scattering surfaces, such as leaves – Leaf Area Index). 
+#Crops typically have the highest NIR values
+#Conifers have lower values than broad-leaved forests, and they are relatively stable, as most of the conifers are evergreen species, 
+  #but there are also some seasonal variations 
+#RE1 region – lower values = more chlorophyll
+#Rapeseed is a specific crop as it blooms intensively,here we can see that in April it starts to growth, while at the beginning of May the intensive  bloom starts, 
+  #there is a peak in RE1 on May 
 
+#Similarly, you can analyze other bands or calculate indices and analyze their trajectories during the growing season.
+
+#THANK YOU!!! :)
 

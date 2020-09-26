@@ -180,6 +180,7 @@ plot(burnt, col=brewer.pal(n = 5, name = "YlOrRd"))
 
 
 #PART 4 - classification --------------------------------------------------------------------------------
+
 warsaw = stack("C:/04_R/classification/warsaw.tif")
 plotRGB(warsaw, r =3, g = 2, b=1, stretch = "lin")
 warsaw #note that this image is composed of all 10 bands (not only 6 as in Amazon case)
@@ -316,6 +317,7 @@ class_PCA
 plot(classification_rf$map, col=c("darkgreen", "brown3","chartreuse4", "chartreuse", "yellow", "cadetblue3"))
 
 #PART 5: MULTI-TEMPORAL ANALYSIS----------------------------------------------------------------------------
+
 #In the last part we will analyze multi-temporal imagery – i.e. dense time series of images from the same year. 
 #Dense time series are used particularly in vegetation monitoring, for example in mapping small forest disturbances, or in crop monitoring. 
 #In these part we will also analyze the vegetation - how the different species/types of vegetation reflectance changes during the growing season. 

@@ -349,7 +349,7 @@ ggplot(means, aes(key, value, color = class, group = class))+
   geom_point()+
   geom_line(size = 2, alpha = 0.6)
 
-#Some simple conlcusion form the NIR time series analysis are:
+#Some simple conlcusion from the NIR time series analysis are:
 #In NIR region, healthy vegetation has a very high values (it is sensitive to scattering surfaces, such as leaves – Leaf Area Index). 
 #Crops typically have the highest NIR values
 #Conifers have lower values than broad-leaved forests, and they are relatively stable, as most of the conifers are evergreen species, 

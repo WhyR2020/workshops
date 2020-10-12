@@ -15,9 +15,9 @@ During the break [McKinsey & Company](https://www.mckinsey.com/pl/careers/career
 |-------------------|-----------------|-------|--|
 | **Invited** [First steps with Continuous Integration](https://github.com/WhyR2020/workshops/tree/master/travis) | [Colin Gillespie](https://twitter.com/csgillespie) & [Rhian Davis](https://twitter.com/trianglegirl) from [Jumping Rivers](https://www.jumpingrivers.com/about/) | 25 | (M) |
 | **Invited** [Bayesian Optimization with mlr3mbo](https://github.com/WhyR2020/workshops/tree/master/bayesopt) | [Jakob Richter](https://twitter.com/jak0br) | 25 | (M) |
-| [Basics of Shiny](https://github.com/WhyR2020/workshops/tree/master/bshiny) | Weronika Puchała, Krystyna Grzesiak, Katarzyna Sidorczuk |  30 | (M) | 
-| [How to make your code fast - R and C++ integration using Rcpp](https://github.com/WhyR2020/workshops/tree/master/rcpp) | Jadwiga Słowik, Dominik Rafacz, Mateusz Bąkała | 30 | (M) |
-| [Reproducible data analysis with `drake`](https://github.com/WhyR2020/workshops/tree/master/drake) | Jakub Kwiecień | 30 | (M) |
+| [Basics of Shiny](https://github.com/WhyR2020/workshops/tree/master/bshiny) | [Weronika Puchała](https://www.linkedin.com/in/weronika-pucha%C5%82a-831698a4/), [Krystyna Grzesiak](https://www.linkedin.com/in/krystyna-grzesiak-7bb290189/), [Katarzyna Sidorczuk](https://www.linkedin.com/in/katarzyna-sidorczuk/) |  30 | (M) | 
+| [How to make your code fast - R and C++ integration using Rcpp](https://github.com/WhyR2020/workshops/tree/master/rcpp) | [Jadwiga Słowik](https://github.com/slowikj), [Dominik Rafacz](https://www.linkedin.com/in/dominik-rafacz-4592b8164/), [Mateusz Bąkała](https://www.facebook.com/matibakala) | 30 | (M) |
+| [Reproducible data analysis with `drake`](https://github.com/WhyR2020/workshops/tree/master/drake) | [Jakub Kwiecień](https://www.linkedin.com/in/jakub-kwiecien-097797120/) | 30 | (M) |
 | | | | |
 | Recruiting Panel [Lessons learned from 500+ interviews for data science jobs](https://github.com/WhyR2020/abstracts/tree/master/panel) | [McKinsey & Company](https://www.mckinsey.com/pl/careers/careers-in-poland) | 1000 | (P) |
 | | | | |
